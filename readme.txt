@@ -1,5 +1,5 @@
 my first commit
 commit kedua
-commit ketiga
+commit aneh
 commit keempat
 commit kelima
